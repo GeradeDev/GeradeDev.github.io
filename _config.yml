@@ -1,1 +1,6 @@
 theme: jekyll-theme-architect
+
+name: Gerade Dev
+markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
